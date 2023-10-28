@@ -24,6 +24,5 @@ Mentor: [Dr. Riccardo Bellazzi](https://www.journals.elsevier.com/international-
 
 ## Contact me
 - :envelope_with_arrow: simonamerlini@arizona.edu
-- 🌍 [Linkedin](https://linkedin.com/in/simona-merlini-42a336200)
-- :octocat: [Github](https://github.com/merlinis12)
+
 
