@@ -25,24 +25,28 @@ theme:
   search_index_only: true
 
   # Default values, taken from mkdocs_theme.yml
-  language: en
-  palette: 
-    - scheme: default
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
       primary: brown
       accent: orange
       toggle:
-        icon: material/brightness-3
-        name: Switch to dark mode
-    - scheme: slate
-      primary: brown
-      accent: orange 
-      toggle:
         icon: material/brightness-7
-        name: Switch to light mode
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: brown
+      accent: orange
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
   font:
     text: Roboto
     code: Regular
-  favicon: material/dna
+  favicon: material/cat
   icon:
     logo: material/dna
     admonition:
@@ -56,6 +60,17 @@ theme:
 # Page tree
 nav:
   - Home: index.md
+
+ Options
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/merlinis12
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/simona-merlini-42a336200
+  analytics:
+    provider: google
+    property: UA-72224033-6
  
 
   
