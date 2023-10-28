@@ -42,9 +42,9 @@ theme:
       toggle:
         icon: material/brightness-7
         name: Switch to light mode
-  favicon: material/brain
+  favicon: material/cat
   icon:
-    logo: material/brain
+    logo: material/cat
     #admonition:
      # note: material/map-marker-radius-outline
   features:
