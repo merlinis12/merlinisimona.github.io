@@ -6,9 +6,7 @@ Simona is a Ph.D student in Biomedical Engineering at the University of Arizona.
 
 ### Education
 
-- University of Arizona, MS, Plant Sciences, 2021
-- Nagoya University, MS, Agriculture, 2019
-- Nagoya University, BS, Applied Biosciences, 2017
+
 
 ---
 
@@ -16,7 +14,3 @@ Simona is a Ph.D student in Biomedical Engineering at the University of Arizona.
 
 ## Contact me
 
-- 📪 Mail:  cosi-at-arizona-dot-edu 
-- 🐈‍⬛ GitHub: https://github.com/CosiMichele 
-- 🔬 OrcID: 0000-0001-7609-1939 
-- 🐦 Twitter: https://twitter.com/cosi_michele 
