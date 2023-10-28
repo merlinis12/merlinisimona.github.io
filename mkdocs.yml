@@ -61,7 +61,7 @@ theme:
 nav:
   - Home: index.md
 
- Options
+#Options
 extra:
   social:
     - icon: fontawesome/brands/github
