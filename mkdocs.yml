@@ -48,7 +48,7 @@ theme:
     code: Regular
   favicon: material/cat
   icon:
-    logo: material/dna
+    logo: material/glasses
     admonition:
       note: material/map-marker-radius-outline
   features:
