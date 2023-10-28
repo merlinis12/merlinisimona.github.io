@@ -68,6 +68,8 @@ extra:
       link: https://github.com/merlinis12
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/simona-merlini-42a336200
+    - icon: fontawesome/brands/email
+      link: simonamerlini@arizona.edu
   analytics:
     provider: google
     property: UA-72224033-6
