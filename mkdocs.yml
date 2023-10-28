@@ -1,5 +1,5 @@
-site_name: FOSS 2023 fall GitHub Project
-site_description: My Project for FOSS 2023 Fall Program
+site_name: Simona Merlini 
+site_description: Website for Simona Merlini
 site_author: Simona Merlini
 site_url: https://merlinis12.github.io/merlinisimona.github.io
 
@@ -8,16 +8,13 @@ repo_name: merlinisimona.github.io
 repo_url: https://github.com/merlinis12/merlinisimona.github.io
 edit_uri: edit/main/docs/
 # Copyright
-copyright: 'Copyright &copy; 2023 - 2024'
+copyright: 'Copyright &copy; 2023 Merlini Simona'
+
 
 
 # Configuration
 theme:
   name: material
-  highlightjs: true
-  font:
-    text: Roboto
-    code: Regular
 
   # 404 page
   static_templates:
@@ -31,92 +28,90 @@ theme:
   language: en
   palette: 
     - scheme: default
-      primary: blue grey
-      accent: deep purple
+      primary: brown
+      accent: orange
       toggle:
         icon: material/brightness-3
         name: Switch to dark mode
     - scheme: slate
-      primary: blue grey
-      accent: deep purple 
+      primary: brown
+      accent: orange 
       toggle:
         icon: material/brightness-7
         name: Switch to light mode
-  favicon: material/cat
+  font:
+    text: Roboto
+    code: Regular
+  favicon: material/dna
   icon:
-    logo: material/cat
-    #admonition:
-     # note: material/map-marker-radius-outline
+    logo: material/dna
+    admonition:
+      note: material/map-marker-radius-outline
   features:
-  - navigation.instant
-  - navigation.tracking
-  - navigation.tabs
-  - navigation.tabs.sticky
-  - navigation.indexes
-  - navigation.top
-  - toc.follow
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - toc.integrate
 
-# Page tree--> here you can add all of your pages
+# Page tree
 nav:
   - Home: index.md
-  #- About me: https://www.linkedin.com/in/simona-merlini-42a336200
-  #- Data Managemen Plan: Data_Management_Plan.md
-  #- Data Science Fellows Program: https://datascience.arizona.edu/education/data-science-fellows
-  #- CIBS Main Page: https://cibs.uahs.arizona.edu/
+ 
 
-# Theme Extras
+  
+# Extensions
+markdown_extensions:
+  - admonition
+  - abbr
+  - attr_list
+  - def_list
+  - footnotes
+  - meta
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
 extra_css:
   - stylesheets/extra.css
-
-
  
 plugins:
   - search
   - mkdocstrings:
-      #custom_templates: templates
-      #default_handler: python
-      #handlers:
-      #  python:
-      #    options:
-      #      show_source: false
+      custom_templates: templates
+      default_handler: python
+      handlers:
+        python:
+          options:
+            show_source: false
   - git-revision-date
   - mkdocs-jupyter:
         include_source: True
         ignore_h1_titles: True
-
-# Extensions (leave as is)
-markdown_extensions:
-    - admonition
-    - abbr
-    - attr_list
-    - def_list
-    - footnotes
-    - meta
-    - md_in_html
-    - toc:
-        permalink: true
-        title: On this page
-    - pymdownx.arithmatex:
-        generic: true
-    - pymdownx.betterem:
-        smart_enable: all
-    - pymdownx.caret
-    - pymdownx.critic
-    - pymdownx.details
-    - pymdownx.emoji:
-        emoji_index: !!python/name:material.extensions.emoji.twemoji
-        emoji_generator: !!python/name:material.extensions.emoji.to_svg
-    - pymdownx.highlight
-    - pymdownx.inlinehilite
-    - pymdownx.keys
-    - pymdownx.magiclink:
-        repo_url_shorthand: true
-        user: squidfunk
-        repo: mkdocs-material
-    - pymdownx.mark
-    - pymdownx.smartsymbols
-    
-    - pymdownx.tabbed
-    - pymdownx.tasklist:
-        custom_checkbox: true
-    - pymdownx.tilde
