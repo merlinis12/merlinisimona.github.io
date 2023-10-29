@@ -7,8 +7,9 @@ Simona is a Ph.D student in Biomedical Engineering at the University of Arizona.
 ### Education 
 - :microscope: University of Arizona, [Data Science Fellow](https://datascience.arizona.edu/education/data-science-fellows), Data Science Institute, Fall 2023
 - 📖 University of Arizona, Phd Student, Biomedical Engineering, Jan 2023-Present
-- :books: University of Pavia, MS, Digital Welfare-Biomedical Engineering, Sep 2020-Dec 2020
-- :books: University of Pavia, BS, Biomedical Engineering, Oct 2017-Sep 2020
+- :closed_book: University of Pavia, MS, Digital Welfare-Biomedical Engineering, Sep 2020-Dec 2022
+- :telescope: University of Pavia, Winter school: _Discovering the unknown: AI in healthcare_, Dec 2021
+- :green_book: University of Pavia, BS, Biomedical Engineering, Oct 2017-Sep 2020
 
 
 Thesis Project: _QlickView: a key software for COVID-19 data analysis_  
