@@ -16,10 +16,12 @@ Simona is a Ph.D student in Biomedical Engineering at the University of Arizona.
 ---
 
 ### Poster Presentation and Data Blitz
-- [Society for Neuroscience 2023](https://www.sfn.org/), Washington D.C, Nov 2023
-- [Arizona Alzheimer's Consortium Conference](https://azalz.org/), Phoenix, Sep 2023
-- [Alzheimer's Association International Conference 2023](https://aaic.alz.org/), Amsterdam, Jul 2023
-- [Women in Data Science](https://www.widsworldwide.org/), Tucson, Apr 2023
+- [Alzheimer's Association International Conference 2024](https://aaic.alz.org/), Philadelphia, Jul 2024 (poster)
+- [Society for Neuroscience 2023](https://www.sfn.org/), Washington D.C, Nov 2023 (poster)
+- [Arizona Alzheimer's Consortium Conference](https://azalz.org/), Phoenix, Sep 2023 (poster)
+- [Alzheimer's Association International Conference 2023](https://aaic.alz.org/), Amsterdam, Jul 2023 (poster)
+- [Women in Data Science](https://www.widsworldwide.org/), Tucson, Apr 2023 (data blitz)
+- [Alzheimer's Association International Conference 2022](https://aaic.alz.org/), San DIego, Jul 2022 (poster)
 
 ## Contact me
 - :envelope_with_arrow: simonamerlini@arizona.edu
