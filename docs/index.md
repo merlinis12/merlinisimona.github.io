@@ -6,7 +6,6 @@ Simona is a Ph.D student in Biomedical Engineering at the University of Arizona.
 
 ### Education 
 - 🧬 University of Arizona, Phd Student, Biomedical Engineering, Jan 2023-Present
-- :microscope: University of Arizona, [Data Science Fellow](https://datascience.arizona.edu/education/data-science-fellows), Data Science Institute, Fall 2023
 - :closed_book: University of Pavia, MS, Digital Welfare-Biomedical Engineering, Sep 2020-Dec 2022
 - :telescope: University of Pavia, Winter school: _Discovering the unknown: AI in healthcare_, Dec 2021
 - :green_book: University of Pavia, BS, Biomedical Engineering, Oct 2017-Sep 2020
@@ -16,15 +15,26 @@ Simona is a Ph.D student in Biomedical Engineering at the University of Arizona.
 ---
 
 ### Poster Presentation and Data Blitz
+- [Society for Neuroscience 2024](https://www.sfn.org/), Chicago, Oct 2024 (poster)
 - [Alzheimer's Association International Conference 2024](https://aaic.alz.org/), Philadelphia, Jul 2024 (poster)
-- [Society for Neuroscience 2023](https://www.sfn.org/), Washington D.C, Nov 2023 (poster)
+- 12th Annual Biomedical Engineering Day, University of Arizona, Tucson, Mar 2024 (poster)                                  - [Society for Neuroscience 2023](https://www.sfn.org/), Washington D.C, Nov 2023 (poster)
 - [Arizona Alzheimer's Consortium Conference](https://azalz.org/), Phoenix, Sep 2023 (poster)
 - [Alzheimer's Association International Conference 2023](https://aaic.alz.org/), Amsterdam, Jul 2023 (poster)
 - [Women in Data Science](https://www.widsworldwide.org/), Tucson, Apr 2023 (data blitz)
 - [Alzheimer's Association International Conference 2022](https://aaic.alz.org/), San DIego, Jul 2022 (poster)
 
-### Grant
-- GPSC Travel Grant, Winter 2023
+### Honors and Hawards 
+-Second Place- Best Overall Poster 								     2024
+	12th Annual BME Day
+Biomedical Engineering, University of Arizona, Tucson, AZ.
+
+-Data Science Fellowship 									     2023
+	Data Science Institute, University of Arizona, Tucson, AZ.
+
+- GPSC Travel Grants								                                     2023
+	University of Arizona, Tucson, AZ.
+
+
 
 ## Contact me
 - :envelope_with_arrow: simonamerlini@arizona.edu
