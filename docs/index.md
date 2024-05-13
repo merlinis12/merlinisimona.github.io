@@ -33,6 +33,11 @@ I'm always eager to connect with fellow AI enthusiasts, researchers, and scienti
 - GPSC Travel Grants, University of Arizona, Tucson, 2023
 
 
+### Membership
+- The Alzheimer's Association International Society to Advance Alzheimer's Research and Treatment [(ISTAART)](https://istaart.alz.org/home), 2022-Present
+- [Society for Neuroscience](https://www.sfn.org/membership/become-a-member), 2023-Present
+
+
 
 ## Contact me
 - :envelope_with_arrow: simonamerlini@arizona.edu
