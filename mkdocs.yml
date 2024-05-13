@@ -121,7 +121,7 @@ extra_css:
 plugins:
   - search
   - mkdocstrings:
-      custom_templates: templates
+      #custom_templates: templates
       default_handler: python
       handlers:
         python:
