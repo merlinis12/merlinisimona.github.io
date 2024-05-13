@@ -1,8 +1,11 @@
 # **Simona Merlini**
 
 ## About me
+Hello! I'm a Biomedical Engineer and researcher at the [Center for Innovation in Brain Science](https://cibs.uahs.arizona.edu/), where my work focuses on leveraging computational methods to identify precision therapeutics for Alzheimer's Disease prevention and treatment. I am currently working with [Dr. Francesca Vitali](https://deptmedicine.arizona.edu/profile/francesca-vitali-phd) under the mentorship of [Dr. Brinton](https://healthsciences.arizona.edu/about/executive-leadership/roberta-diaz-brinton-phd).
 
-Simona is a Ph.D student in Biomedical Engineering at the University of Arizona. She is currently working with [Dr. Francesca Vitali](https://deptmedicine.arizona.edu/profile/francesca-vitali-phd) under the mentorship of [Dr. Brinton](https://healthsciences.arizona.edu/about/executive-leadership/roberta-diaz-brinton-phd) in the Center for Innovation in Brain Science ([CIBS](https://cibs.uahs.arizona.edu/)). She earned her Bachelor’s and Master’s degree in Biomedical Engineering from the University of Pavia, Italy. Her research focuses on the computational identification of precision therapeutics for Alzheimer's disease prevention and treatment. The broader aim of her research involved the development of precision medicine approach based on machine learning to identify therapies that treat the specific patient profiles/subpopulations using different sources of electronic medical records. She is interested in analyzing extensive real-world clinical data and performing meta-analysis across different datasets. She is also enthusiastic about incorporating patient-inspired and data-driven approaches in her research.
+I'm passionate about exploring the power of AI for real-world clinical data analysis, driven by a deep curiosity about the potential of technology to revolutionize healthcare.I'm incredibly excited about the intersection of AI and biomedicine, constantly exploring innovative approaches to advance our understanding and treatment of neurological disorders.
+
+I'm always eager to connect with fellow AI enthusiasts, researchers, and scientists alike.
 
 ### Education 
 - 🧬 University of Arizona, Phd Student, Biomedical Engineering, Jan 2023-Present
