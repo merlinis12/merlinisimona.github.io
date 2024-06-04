@@ -3,7 +3,7 @@
 ## About me
 Hello! I'm a Biomedical Engineer and researcher at the [Center for Innovation in Brain Science](https://cibs.uahs.arizona.edu/), where my work focuses on leveraging computational methods to identify precision therapeutics for Alzheimer's Disease prevention and treatment. I am currently working with [Dr. Francesca Vitali](https://deptmedicine.arizona.edu/profile/francesca-vitali-phd) under the mentorship of [Dr. Brinton](https://healthsciences.arizona.edu/about/executive-leadership/roberta-diaz-brinton-phd).
 
-I'm passionate about exploring the power of AI for real-world clinical data analysis, driven by a deep curiosity about the potential of technology to revolutionize healthcare.I'm incredibly excited about the intersection of AI and biomedicine, constantly exploring innovative approaches to advance our understanding and treatment of neurological disorders.
+I'm passionate about exploring the power of AI for real-world clinical data analysis, driven by a deep curiosity about the potential of technology to revolutionize healthcare. I'm incredibly excited about the intersection of AI and biomedicine, constantly exploring innovative approaches to advance our understanding and treatment of neurological disorders.
 
 I'm always eager to connect with fellow AI enthusiasts, researchers, and scientists alike.
 
@@ -25,7 +25,7 @@ I'm always eager to connect with fellow AI enthusiasts, researchers, and scienti
 - [Arizona Alzheimer's Consortium Conference](https://azalz.org/), Phoenix, Sep 2023 (poster)
 - [Alzheimer's Association International Conference 2023](https://aaic.alz.org/), Amsterdam, Jul 2023 (poster)
 - [Women in Data Science](https://www.widsworldwide.org/), Tucson, Apr 2023 (data blitz)
-- [Alzheimer's Association International Conference 2022](https://aaic.alz.org/), San DIego, Jul 2022 (poster)
+- [Alzheimer's Association International Conference 2022](https://aaic.alz.org/), San Diego, Jul 2022 (poster)
 
 ### Honors and Hawards 
 - Second Place- Best Overall Poster, 12th Annual BME Day 2024
@@ -34,6 +34,7 @@ I'm always eager to connect with fellow AI enthusiasts, researchers, and scienti
 
 
 ### Memberships
+- Biomedical Engineering Society [(BMES)](https://www.bmes.org/), 2024
 - The Alzheimer's Association International Society to Advance Alzheimer's Research and Treatment [(ISTAART)](https://istaart.alz.org/home), 2022-Present
 - [Society for Neuroscience](https://www.sfn.org/membership/become-a-member), 2023-Present
 
