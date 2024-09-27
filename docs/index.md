@@ -18,6 +18,8 @@ I'm always eager to connect with fellow AI enthusiasts, researchers, and scienti
 ---
 
 ### Poster Presentation and Data Blitz
+- [Biomedical Engineering Society Annual Meeting 2024](https://www.bmes.org/), Baltimore, Oct 2024 (poster)
+- - [Arizona Alzheimer's Consortium Conference](https://azalz.org/), Phoenix, Sep 2024 (poster)
 - [Society for Neuroscience 2024](https://www.sfn.org/), Chicago, Oct 2024 (poster)
 - [Alzheimer's Association International Conference 2024](https://aaic.alz.org/), Philadelphia, Jul 2024 (poster)
 - [12th Annual Biomedical Engineering Day](https://bme.engineering.arizona.edu/news-events/bme-day), Tucson, Mar 2024 (poster)
