@@ -17,9 +17,7 @@ I'm always eager to connect with fellow AI enthusiasts, researchers, and scienti
 
 ---
 ### What's Happening
-- <p>[RNA-Seq Data Analysis in R: From Raw Counts to Differential Expression Analysis](https://datascience.arizona.edu/events/rna-seq-data-analysis-r-raw-counts-differential-expression-analysis)<br>When: 3 – 4 p.m., Nov. 12, 2024
-<br>Where: [Albert B. Weaver Science-Engineering Library, Room 212 (Learning Center)](https://www.google.com/maps/place/Albert+B.+Weaver+Science-Engineering+Library/@32.2311137,-110.9506548,1213m/data=!3m2!1e3!4b1!4m6!3m5!1s0x86d671aa082e1c71:0x1ab9201b69316ff6!8m2!3d32.2311137!4d-110.9506548!16s%2Fg%2F12hk_5fnd?hl=en-US&entry=ttu&g_ep=EgoyMDI0MTAxMy4wIKXMDSoASAFQAw%3D%3D)
-<br>Join this workshop to learn the foundational steps in analyzing RNA-seq data, focusing on key methods for transforming raw counts into biologically meaningful insights.</p>
+- <p> [RNA-Seq Data Analysis in R: From Raw Counts to Differential Expression Analysis](https://datascience.arizona.edu/events/rna-seq-data-analysis-r-raw-counts-differential-expression-analysis)<br>When: 3 – 4 p.m., Nov. 12, 2024<br>Where: [Albert B. Weaver Science-Engineering Library, Room 212 (Learning Center)](https://www.google.com/maps/place/Albert+B.+Weaver+Science-Engineering+Library/@32.2311137,-110.9506548,1213m/data=!3m2!1e3!4b1!4m6!3m5!1s0x86d671aa082e1c71:0x1ab9201b69316ff6!8m2!3d32.2311137!4d-110.9506548!16s%2Fg%2F12hk_5fnd?hl=en-US&entry=ttu&g_ep=EgoyMDI0MTAxMy4wIKXMDSoASAFQAw%3D%3D)<br>Join this workshop to learn the foundational steps in analyzing RNA-seq data, focusing on key methods for transforming raw counts into biologically meaningful insights.</p>
 
 ### Poster Presentation and Data Blitz
 - [Biomedical Engineering Society Annual Meeting 2024](https://www.bmes.org/), Baltimore, Oct 2024 (poster)
