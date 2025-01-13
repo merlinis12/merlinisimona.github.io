@@ -34,9 +34,10 @@ I'm always eager to connect with fellow AI enthusiasts, researchers, and scienti
 - [Alzheimer's Association International Conference 2022](https://aaic.alz.org/), San Diego, Jul 2022 (poster)
 
 ### Honors and Hawards 
+- GPSC Travel Grants-Fall 2024, University of Arizona, Tucson, 2024
 - Second Place- Best Overall Poster, 12th Annual BME Day 2024
 - [Data Science Fellowship](https://datascience.arizona.edu/education/data-science-fellows), Data Science Institute, 2023
-- GPSC Travel Grants, University of Arizona, Tucson, 2023
+- GPSC Travel Grants-Spring 2023, University of Arizona, Tucson, 2023
 
 
 ### Memberships
