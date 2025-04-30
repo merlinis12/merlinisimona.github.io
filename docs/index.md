@@ -33,7 +33,9 @@ I'm always eager to connect with fellow AI enthusiasts, researchers, and scienti
 - [Women in Data Science](https://www.widsworldwide.org/), Tucson, Apr 2023 (data blitz)
 - [Alzheimer's Association International Conference 2022](https://aaic.alz.org/), San Diego, Jul 2022 (poster)
 
-### Honors and Hawards 
+### Honors and Awards 
+- [Doctoral Consortium](https://aime25.aimedicine.info/doctoral-consortium-2025/) Grant - Artificial Intelligence in Medicine (AIME), 2025
+- [AAIC Conference Fellowship](https://aaic.alz.org/abstracts/conference-fellowships.asp), 2025
 - GPSC Travel Grants-Fall 2024, University of Arizona, Tucson, 2024
 - Second Place- Best Overall Poster, 12th Annual BME Day 2024
 - [Data Science Fellowship](https://datascience.arizona.edu/education/data-science-fellows), Data Science Institute, 2023
