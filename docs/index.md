@@ -16,9 +16,11 @@ I'm always eager to connect with fellow AI enthusiasts, researchers, and scienti
 
 
 ---
-### News
-<strong>📢 New Publication:</strong> I'm excited to share that our recent work, <em>“Multisystem failure, tipping points and risk of Alzheimer’s disease”</em>, is now published in <em>Alzheimer's & Dementia</em>.  
-  <a href="https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.70249" target="_blank">Read the article here</a>.
+<section id="news">
+  <h2>News</h2>
+  <p><strong>📢 New Publication:</strong> I'm excited to share that our recent work, <em>“Multisystem failure, tipping points and risk of Alzheimer’s disease”</em>, is now published in <em>Alzheimer's & Dementia</em>.  
+  <a href="https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.70249" target="_blank">Read the article here</a>.</p>
+</section>
 
 ### Poster Presentation and Data Blitz
 - [Biomedical Engineering Society Annual Meeting 2024](https://www.bmes.org/), Baltimore, Oct 2024 (poster)
