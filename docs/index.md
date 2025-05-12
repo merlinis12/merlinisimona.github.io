@@ -16,10 +16,9 @@ I'm always eager to connect with fellow AI enthusiasts, researchers, and scienti
 
 
 ---
-### What's Happening
-- <p> [RNA-Seq Data Analysis in R: From Raw Counts to Differential Expression Analysis]([https://datascience.arizona.edu/events/rna-seq-data-analysis-r-raw-counts-differential-expression-analysis](https://datascience.arizona.edu/events/rna-seq-data-analysis-r-raw-counts-differential-expression-analysis-0)) <br>When: 2 – 3 p.m., Feb. 13, 2025<br>Where: online [Register for Zoom Link](https://uarizona.co1.qualtrics.com/jfe/form/SV_eUHXcEqBSFo44d0) and [Albert B. Weaver Science-Engineering Library, Room 212 (Learning Center)](https://www.google.com/maps/place/Albert+B.+Weaver+Science-Engineering+Library/@32.2311137,-110.9506548,1213m/data=!3m2!1e3!4b1!4m6!3m5!1s0x86d671aa082e1c71:0x1ab9201b69316ff6!8m2!3d32.2311137!4d-110.9506548!16s%2Fg%2F12hk_5fnd?hl=en-US&entry=ttu&g_ep=EgoyMDI0MTAxMy4wIKXMDSoASAFQAw%3D%3D) </p>
-
-- <p> [Downstream Analysis of RNA-Seq Results in R: GSEA, PPI Networks, and Biological Interpretation]([https://datascience.arizona.edu/events/downstream-analysis-rna-seq-results-r-gsea-ppi-networks-and-biological-interpretation](https://datascience.arizona.edu/events/downstream-analysis-rna-seq-results-r-gsea-ppi-networks-and-biological-interpretation-0)) <br>When: 2 – 3 p.m., Feb. 20, 2025<br>Where: online [Register for Zoom Link](https://uarizona.co1.qualtrics.com/jfe/form/SV_eUHXcEqBSFo44d0) and [Albert B. Weaver Science-Engineering Library, Room 212 (Learning Center)](https://www.google.com/maps/place/Albert+B.+Weaver+Science-Engineering+Library/@32.2311137,-110.9506548,1213m/data=!3m2!1e3!4b1!4m6!3m5!1s0x86d671aa082e1c71:0x1ab9201b69316ff6!8m2!3d32.2311137!4d-110.9506548!16s%2Fg%2F12hk_5fnd?hl=en-US&entry=ttu&g_ep=EgoyMDI0MTAxMy4wIKXMDSoASAFQAw%3D%3D) </p>
+### News
+<strong>📢 New Publication:</strong> I'm excited to share that our recent work, <em>“Multisystem failure, tipping points and risk of Alzheimer’s disease”</em>, is now published in <em>Alzheimer's & Dementia</em>.  
+  <a href="https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.70249" target="_blank">Read the article here</a>.
 
 ### Poster Presentation and Data Blitz
 - [Biomedical Engineering Society Annual Meeting 2024](https://www.bmes.org/), Baltimore, Oct 2024 (poster)
